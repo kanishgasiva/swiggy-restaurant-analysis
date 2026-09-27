@@ -12,7 +12,7 @@ Dataset
 --
 Source: Kaggle
 Link: [ kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset ]
-Contains restaurant-level information including location, ratings, votes, cuisines, cost, and other restaurant attributes.
+Contains restaurant-level information from 600+ Indian cities, including restaurant details, ratings, cuisines, pricing, and location information.
 
 Project Workflow
 --
