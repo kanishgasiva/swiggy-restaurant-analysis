@@ -11,7 +11,7 @@ To understand restaurant distribution, ratings, customer engagement, and other b
 Dataset 
 --
 Source: Kaggle
-
+Link: [ kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset ]
 Contains restaurant-level information including location, ratings, votes, cuisines, cost, and other restaurant attributes.
 
 Project Workflow
@@ -42,4 +42,4 @@ The analysis transformed raw restaurant data into a structured dataset and used 
 Files
 --
 * `swiggy_analysis.sql` — Data cleaning and exploratory analysis queries
-* `swiggy.csv` — Dataset
+* `swiggy.csv.zip` — Dataset
