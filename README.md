@@ -6,7 +6,7 @@ Analysing Swiggy restaurant data using MySQL to clean, transform, and explore re
 
 Objective
 --
-To understand restaurant distribution, ratings, customer engagement, and other business patterns using SQL. 
+To understand restaurant distribution, ratings, cuisines, pricing, and other business patterns using SQL.
 
 Dataset 
 --
